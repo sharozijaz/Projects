@@ -44,3 +44,9 @@ if (userName == 'Sharoz Ijaz' && age >= 21){
 // else{
 //     console.log(`Good your order is on the way,we only have ${books - parseInt(bookQty)} left.`);
 // };
+// if(condition){
+    
+// }else
+// {
+
+// }
